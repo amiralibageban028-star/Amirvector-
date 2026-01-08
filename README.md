@@ -2,7 +2,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-BOT_TOKEN = "توکن_رباتت"
+BOT_TOKEN = "7915503679"
 
 GROUP = "@Amirvector2025"      # گروه
 CHANNEL = "@Amirvictor17"     # کانال پک
