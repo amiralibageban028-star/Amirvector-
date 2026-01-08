@@ -1,4 +1,4 @@
-# Amirvector-
+requirements.txtpython-telegram-bot==20.7# Amirvector-
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
